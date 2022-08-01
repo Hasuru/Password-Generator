@@ -2,7 +2,7 @@
 
 This is a tiny project with the intent of learning html, css and a tiny bit of javascript
 
-### **Current Features:**
+### **[ CURRENT FEATURES ]**
 * Possibility of including Uppercase characters;
 * Possibility of including Number characters;
 * Possibility of including Symbol characters;
