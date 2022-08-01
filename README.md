@@ -7,11 +7,11 @@ This is a tiny project with the intent of learning html, css and a tiny bit of j
 * Possibility of including Number characters;
 * Possibility of including Symbol characters;
 
-**Note**: The current build of the script does not guarantee that the password has all the characters asked. 
+***Note**: The current build of the script does not guarantee that the password has all the characters asked.* 
 
-### **Run instructions**
+### **[ RUN INSTRUCTIONS ]**
 To run the script just run the html file as a live server on your prefered browser
 
-### **Materials used**
+### **[ MATERIALS USED ]**
 * [Build A Password Generator With JavaScript - Tutorial](https://www.youtube.com/watch?v=iKo9pDKKHnc);
 * [JavaScript Password Generator](https://www.youtube.com/watch?v=duNmhKgtcsI&list=WL&index=7);
